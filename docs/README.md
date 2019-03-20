@@ -23,8 +23,15 @@ It does not matter if they are small or large characteristics of a videogame, th
  
 ### Definition
 
-“Quests are this place in a video game where game design, gaming and technology all come together.” Jeszek Szczepanski - Building Non-Linear Narratives in Horizon: Zero Dawn (GDC 2017).
+“Quests are this place in a video game where game design, gaming and technology all come together.” [Jeszek Szczepanski - Building Non-Linear Narratives in Horizon: Zero Dawn (GDC 2017).](https://www.youtube.com/watch?v=ykPZcG8_mPU&feature=youtu.be)
 
 The basic definition would be a task for a player or a group of players that may be completed to obtain a rewarding after succesfully completing it.
 
 From this point we can focus on any action that the player makes can be converted into a quest, we simply have to award him a prize after completing that action. This factor is very short of explanation because within the action of the player we can find and have to be able to differentiate between a main quest and a side quest.
+
+### Main Quest & Side Quests
+Most people tend to think that a Main QUest is simply an action that you must complete to advance the game, and instead a Side Quest is a mission that the game or you decide whether to fulfill or not, no important effect on the core of the game. The problem with this conception is that if, for example, the history of a game is divided into different mission chains, and you choose the "A" option, this does not imply a set of missions that you had to complete to advance through the history of the game if you had decided otherwise. Similarly, there are some Side Quests that players must complete in order to level up or grind, making them not that “skippable” anymore.
+
+### Main Quests 
+
+According to Dean Razavi, Razbury Games Game Designer. a main quest is a big change in the plot of the narrative arc that create a new path for the player making it a inflexion point, meaning this that anything that is not related to the main plot of the story of the game is directly not considered a main quest.
