@@ -56,9 +56,11 @@ The prerequisites that a Quest must have are:
 
 ## Quest Categories
 
-We can categorize the quests on 4 different types:
+We can classify the quests on 4 different types:
 
 **Gather Quest**: "Go to the nearest forest and bring me 10 types of mushrooms."
 **Escort Quest**: "Protect me and my father!", basically a protect an NPC on its way to another location.
 **Delivery Quest**"Can you bring this to my sick mother next town warrior?", bring something from a NPC to another one to obtain something (normally the object you brought).
 **Kill Quest**"Kill 5 Big Fang Wolves",classic killing quest.
+
+# Quest Creation
