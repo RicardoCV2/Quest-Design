@@ -1,10 +1,8 @@
  https://ricardocv2.github.io/Quest-Design/
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # A better look at Quest designing
 
-
-<image src ="https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg" width="1280" height="700">
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg)
 
 
 ## About the author
@@ -41,4 +39,4 @@ According to Dean Razavi, Razbury Games Game Designer. a main quest is a big cha
  
  ### Side Quests
  
- 
+ <image src="https://github.com/RicardoCV2/Quest-Design/blob/master/docs/sidequest.jpg" width="600" height="300">
