@@ -1,6 +1,6 @@
 # A better look at Quest designing
 
-<image src ="https://github.com/RicardoCV2/Quest-Design/blob/master/Docs/Swords.jpg" width="1200" height="800">
+<image src ="https://github.com/RicardoCV2/Quest-Design/blob/master/Docs/Swords.jpg" width="1200" height="500">
 
 ## About the author
 My name is [Ricardo Castro](https://github.com/RicardoCV2) and I'm a student on CITM on Terrassa.
