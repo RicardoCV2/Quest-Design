@@ -8,3 +8,6 @@
 | QUest as a learning / tutorial experience | X |
 | Dangers of grinding | X |
 | Avoid the obvious concept all students already know | X |
+
+The webpage with the assets for my research:
+https://ricardocv2.github.io/Quest-Design/
