@@ -2,7 +2,7 @@
 
 # A better look at Quest designing
 
-![Kratos](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg)
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg)
 
 
 ## About the author
@@ -35,13 +35,13 @@ Most people tend to think that a Main QUest is simply an action that you must co
 
 According to Dean Razavi, Razbury Games Game Designer. a main quest is a big change in the plot of the narrative arc that create a new path for the player making it a inflexion point, meaning this that anything that is not related to the main plot of the story of the game is directly not considered a main quest.
 
-![QuestMain](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/quest.jpg)
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/quest.jpg)
  
  ### Side Quests
  
  The Side Quests help you understand and describe better and more deeply, the world that involves the main character as it explains and makes you discover a more in depth view of the main narrative arc of the game, all this while explaining secondary stories and discovering more things about its inhabitants and its lore.
  
-![SideQuest](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/sidequest.jpg)
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/sidequest.jpg)
 
 
 ## Main Pillars
@@ -59,8 +59,25 @@ The prerequisites that a Quest must have are:
 We can classify the quests on 4 different types:
 
 **Gather Quest**: "Go to the nearest forest and bring me 10 types of mushrooms."
+
 **Escort Quest**: "Protect me and my father!", basically a protect an NPC on its way to another location.
+
 **Delivery Quest**"Can you bring this to my sick mother next town warrior?", bring something from a NPC to another one to obtain something (normally the object you brought).
+
 **Kill Quest**"Kill 5 Big Fang Wolves",classic killing quest.
 
 # Quest Creation
+## Concept
+
+First of all you have to look at your own game from the outside, what kind of game we have, what kind of resources we have, can we do everything we want to do? Depending on the type of game that will be played, one type of resource or another will be used, you can use a larger system or a more closed system, you can create puzzles or mini-games,maybe only use killing quests.
+
+If you have a narrow system the team can afford to work easier and co-ordinated, the game will also be affected since it will be much more repetitive and consequently, boring.
+On the other hand if the team can afford a larger and wider system it allows you to freely do anything you want, the process will be more tedious and more extensive but quests will be interesting and most likely fun to play. 
+The most efficient one is to be in the middle, so that your quest system is dynamic enough to be fast and have all the team members on the same page and allow for design freedom and interesting quest concepts at the same time. All the team has to agree while creating the quests system . programmers and artists don't seem a vital decision making but they will be the ones that create the system and the art, so they have to know what they can afford and what they don't.
+
+Once the decisions have been done and the team knows what way they're heading its time to start the quest concepts. Brainstorming and writting all the ideas down is the best way to do it, then the team will filter them and choose. Try to avoid the first ones as they are the ones that create the most the "cliche" effect. Write, in a couple short sentences, what the concept of the quest would be, followed by what the player should do in order to complete it in a really general way.
+The concept tends to be simple but the main ideas are already clear and express a concise idea,that indicates that the quest has potential
+
+
+
+
