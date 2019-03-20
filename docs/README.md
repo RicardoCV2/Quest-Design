@@ -35,8 +35,8 @@ Most people tend to think that a Main QUest is simply an action that you must co
 
 According to Dean Razavi, Razbury Games Game Designer. a main quest is a big change in the plot of the narrative arc that create a new path for the player making it a inflexion point, meaning this that anything that is not related to the main plot of the story of the game is directly not considered a main quest.
 
-<image src="https://github.com/RicardoCV2/Quest-Design/blob/master/docs/quest.jpg" width="600" height="300">
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/quest.jpg)
  
  ### Side Quests
  
- <image src="https://github.com/RicardoCV2/Quest-Design/blob/master/docs/sidequest.jpg" width="600" height="300">
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/sidequest.jpg)
