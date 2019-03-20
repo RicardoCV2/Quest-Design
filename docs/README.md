@@ -39,4 +39,17 @@ According to Dean Razavi, Razbury Games Game Designer. a main quest is a big cha
  
  ### Side Quests
  
+ The Side Quests help you understand and describe better and more deeply, the world that involves the main character as it explains and makes you discover a more in depth view of the main narrative arc of the game, all this while explaining secondary stories and discovering more things about its inhabitants and its lore.
+ 
 ![SideQuest](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/sidequest.jpg)
+
+
+# Main Pillars
+
+The prerequisites that a Quest must have are:
+
+* **Meaningful**, the player needs a direct connection with the game, needs to be engaged with it completely. Time will be spent and invested on the game and whether it is a 2 minutes or a three hours quest. We can't disappoint them letting them down by making the player into a situation where you are forced to do something that they are not enjoying just to get a better reward that will have better content later on the game.
+
+* ****
+
+* ****
