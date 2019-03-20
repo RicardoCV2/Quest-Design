@@ -3,7 +3,7 @@
 # A better look at Quest designing
 
 
-<image src ="https://github.com/RicardoCV2/Quest-Design/blob/master/Docs/Swords.jpg" width="1200" height="500">
+<image src ="https://github.com/RicardoCV2/Quest-Design/blob/master/Docs/gow.jpg" width="1200" height="500">
 
 
 ## About the author
