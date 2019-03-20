@@ -16,7 +16,7 @@ It does not matter if they are small or large characteristics of a videogame, th
  During the article, three points will be the pinnacles for the research and the better understanding of what quests mean for a videogame and how much importance they have.
  * What they **are**
  * What they **must be like**
- * What do they **transmit**
+ * What do they **convey**
  
  # Quest - Main Quest - Side Quest
  
@@ -44,12 +44,21 @@ According to Dean Razavi, Razbury Games Game Designer. a main quest is a big cha
 ![SideQuest](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/sidequest.jpg)
 
 
-# Main Pillars
+## Main Pillars
 
 The prerequisites that a Quest must have are:
 
 * **Meaningful**, the player needs a direct connection with the game, needs to be engaged with it completely. Time will be spent and invested on the game and whether it is a 2 minutes or a three hours quest. We can't disappoint them letting them down by making the player into a situation where you are forced to do something that they are not enjoying just to get a better reward that will have better content later on the game.
 
-* ****
+* **Convey**, Mainly it has to express itself, it has to convey feelings and sensations,to make the previously mentioned connection a more easily accessible path, while narrating the facts that made that one village be what it is today, or explain what happened between these kids fighting over who gets to do something first.
 
-* ****
+* **Immersive & interactive**, the player has a dircet connection with the game, joining and taking part directly on it, he/she is not reading or watching a story be told, they are participating on it. They must feel important while playing, the game must create a sensation of immersion on the story making them feel like it changes the curse of the plot depending on the decisions and actions they made. If the player has no sensation of being part of the quest's narration, they won't relate to the characters and of course to the story, and we'll have failed them on its design.
+
+## Quest Categories
+
+We can categorize the quests on 4 different types:
+
+**Gather Quest**: "Go to the nearest forest and bring me 10 types of mushrooms."
+**Escort Quest**: "Protect me and my father!", basically a protect an NPC on its way to another location.
+**Delivery Quest**"Can you bring this to my sick mother next town warrior?", bring something from a NPC to another one to obtain something (normally the object you brought).
+**Kill Quest**"Kill 5 Big Fang Wolves",classic killing quest.
