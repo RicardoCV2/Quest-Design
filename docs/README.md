@@ -182,7 +182,7 @@ The most important factor when it comes to rpg's and mmrpg's, its the variety fa
 
 * **Zoning** _Guild Wars_ is a perfect example of zoning, we are talking about RPG and MMRPG, zoning is a key factor in games like Guild Wars because the world they are in can have a level 10 player and a level 85 in the same map but with diferent enemies, just because a maximum level can defeat the most powerful beasts in the first level doesn't mean the first level needs to be modified, a key factor to enhance the players keep playing is the creation of raids, dungeons and Main events, these are Quests that require the player to keep playing the game until they can beat that level 75 warlord, dungeons help the game evolve constantly as they can be implemented later on and just for a period of time, Guild Wras creates raids and special missions in dungeons for advanced intermediate and beginner players. Changes in the big world they have been playing is a big satisfaction for a player and creates on them a big connection with the game, making them want to keep playing until they can defeat that dungeon and get the awesome rewards they expected to have.
 
-![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/guild wars.jpg?raw=true)
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/guildwars.jpg?raw=true)
 
 ## Bibliography
 
