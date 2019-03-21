@@ -111,8 +111,14 @@ If the rewards are not specified you create an agreement with the player, if the
 
 # Pacing
 
+Since we know what quests are, now we are going to emphasize that they transmit what we want and how we want it. One of the most powerful tools to control feelings and emotions in the player is the pacing graph. This tool is used also in Narrative design and in level design. To fully understand tshi we need to know what the tension represents and means.
 
+## Tension
 
+The best way to take control over the player's tension, perception and emotions is to understand it.We want the tension to affect the player but also vary throughout the story. Variations are needed in the level of increase in tension, you can not create an evolution of constant growth of tension, for this we find this tension graph that helps us understand when the viewer has time to think, to understand, to breathe and to get excited before a battle. Example of the movie Star Wars:
+
+![Pacing](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/Pacing.jpg)
+_Source_[image](https://www.gamasutra.com/view/feature/132423/beyond_pacing_games_arent_.php)
 
 
 
