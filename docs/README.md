@@ -120,7 +120,7 @@ The best way to take control over the player's tension, perception and emotions 
 
 ![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/pacing.jpg)
 
-_Source_[image](https://www.gamasutra.com/view/feature/132423/beyond_pacing_games_arent_.php)
+_Source_ [image](https://www.gamasutra.com/view/feature/132423/beyond_pacing_games_arent_.php)
 
 
 Humans tend to remember the moments with less tension and those who have it the most, that is why the space is left for the spectator or player to "rest". For example take _Skyrim_ as an example, you begin and the first thing you see is a carriage with people you don't know in a place you also don't know, but everything remains calmed and you feel like a new adventure is about to begin, people remember that skyrim scene because it has no tension on it.
@@ -130,5 +130,15 @@ _Skyrim's screenshot_
 
 After clearing some story and some basic mechanics and training the dragon comes in, you don't expect to suddenly fight a dragon, the scenario changes, the camera moves faster, the music is more dramatic and it creates a situation where you have to hurry up and kill the dragon with all your resources, all this while driving the player towards the climax, where they kill the dragon and end with all the tension.
 
-![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/skyrim2.jpg)
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/skyrim2.jpg).
 _Skyrim's screenshot_
+
+We don't remember all the stages of the game or all the story, but the developers made sure we kept in mind the most important elements of their story.
+
+A very important point is knowing what we are creating, we are not developing something the player is only gonna watch, the player has to take part in the story of the game and not only be paying attention to the screen watching all the time. The scenario is different as the player is gonna be playing maybe for hours or just some minutes. Tension may be a very important aspect on our quest designing, but also we gotta take into account that the player may save at some point of big tension and leave if our game is only based on tension, and this will ruin the next time they play because the previously created tension is now not affecting the player.We've got two types of solutions:
+
+* **Short qusets**, is the player can play the quest in one sit the problem is solved as the gameplay will be initiated and finished on the same run.
+
+* **Hooking them up**, the quest might be that good that the player will want to keep playing it until it is completed, this will make they won't leave until its completed or until they reach a low tension point, this creates a situation where the player will not have lost the pacing of tension and will be at a point where it doesn't repercute on the tension previously created and it will not be ruined for the nexxt time he plays.
+
+Last but not least, we can add tension by making the player guess aspects from our story. If they try to deduce what our characters are going to do, or what they did in the past, they will feel much more involved and immersed in the story. Nevertheless, if our story developement is too obvious, and players can correctly guess what is going to happen every time, the story won't be interesting to them anymore and immersion will be broken.
