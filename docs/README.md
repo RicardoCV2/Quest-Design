@@ -2,7 +2,7 @@ https://ricardocv2.github.io/Quest-Design/
 
 # A better look at Quest designing
 
-<br><img src="https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg" alt="Error loading img"><br>
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.png)
 
 
 ## About the author
