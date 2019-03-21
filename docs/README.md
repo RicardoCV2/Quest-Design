@@ -174,3 +174,26 @@ Then we can also apply some different options that end up on the same repercusio
 ![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/plot2.jpg?raw=true)
 
 
+## Bibliography
+
+[Quest design in _The Witcher 3_](http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html)
+
+[Repetitive Grind Requests](https://www.youtube.com/watch?v=otAkP5VjIv8)
+
+[The process of Quest Design](https://www.youtube.com/watch?v=N-bdlcnXBn8&t=10s)
+
+[The four Fundamental Quests](https://www.youtube.com/watch?v=6luOrhlzvrc)
+
+[Non-Linear narratives](https://www.youtube.com/watch?v=ykPZcG8_mPU)
+
+[How to create interesting MMo and RPG Quests](https://www.youtube.com/watch?v=ur6GQp5mCYs)
+
+[Every game is an Epic Quest](https://www.youtube.com/watch?v=MOjrSVURwGo)
+
+[Designing side Quests](https://www.gamasutra.com/view/news/314812/Designing_side_quests_Study_these_7_games_and_some_Chris_Avellone_pointers.php)
+
+[Creating meaninful and interesting Quests](https://gamedev.stackexchange.com/questions/839/creating-meaningful-and-engaging-quests)
+
+[What is a Quest Desinger](http://www.craigmakesgames.com/blog/2016/3/21/what-is-a-quest-designer)
+
+[Quest, design and history](https://www.amazon.com/Quests-Design-Theory-History-Narratives/dp/1568813473)
