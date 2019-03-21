@@ -1,5 +1,6 @@
 # A better look at Quest designing
-![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![gow](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg)
 
 ## Author
 
