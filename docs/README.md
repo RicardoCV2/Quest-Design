@@ -1,6 +1,5 @@
 # A better look at Quest designing
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-![Image of Kratos](https://github.com/RicardoCV2/Quest-Design-CITM/blob/master/docs/gow.jpg)
+![Image of Kratos](https://imgur.com/AwNJpIK)
 
 ## Author
 
