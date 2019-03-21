@@ -2,7 +2,7 @@
 
 # A better look at Quest designing
 
-![](docs\gow.jpg)
+![](docs/gow.jpg)
 
 
 ## About the author
