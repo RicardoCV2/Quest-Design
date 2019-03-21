@@ -119,7 +119,7 @@ Since we know what quests are, now we are going to emphasize that they transmit 
 The best way to take control over the player's tension, perception and emotions is to understand it.We want the tension to affect the player but also vary throughout the story. Variations are needed in the level of increase in tension, you can not create an evolution of constant growth of tension, for this we find this tension graph that helps us understand when the viewer has time to think, to understand, to breathe and to get excited before a battle. Example of the movie Star Wars:
 
 ![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/pacing.jpg)
-
+[Pacing](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/pacing.jpg)
 _Source_ [image](https://www.gamasutra.com/view/feature/132423/beyond_pacing_games_arent_.php)
 
 
@@ -137,9 +137,9 @@ We don't remember all the stages of the game or all the story, but the developer
 
 A very important point is knowing what we are creating, we are not developing something the player is only gonna watch, the player has to take part in the story of the game and not only be paying attention to the screen watching all the time. The scenario is different as the player is gonna be playing maybe for hours or just some minutes. Tension may be a very important aspect on our quest designing, but also we gotta take into account that the player may save at some point of big tension and leave if our game is only based on tension, and this will ruin the next time they play because the previously created tension is now not affecting the player.We've got two types of solutions:
 
-* **Short qusets**, is the player can play the quest in one sit the problem is solved as the gameplay will be initiated and finished on the same run.
+* **Short quests**, is the player can play the quest in one sit the problem is solved as the gameplay will be initiated and finished on the same run.
 
-* **Hooking them up**, the quest might be that good that the player will want to keep playing it until it is completed, this will make they won't leave until its completed or until they reach a low tension point, this creates a situation where the player will not have lost the pacing of tension and will be at a point where it doesn't repercute on the tension previously created and it will not be ruined for the nexxt time he plays.
+* **Hooking them up**, the quest might be that good that the player will want to keep playing it until it is completed, this will make they won't leave until its completed or until they reach a low tension point, this creates a situation where the player will not have lost the pacing of tension and will be at a point where it doesn't repercute on the tension previously created and it will not be ruined for the next time he plays.
 
 The last important factor to take in a look at is the immersion of the player in the story, if the player tries to deduce what is gonna happen next in the story and it ends up not being what he though, the player will be completely engaged to the story as he would want to know what will happen next.This can also be a very bad point of our quest designing if the story is way too obvious and the player can anticipate what is going to happen next, if he can correctly guess what is gonna happen all the time, this means the story is not interesting for them anymore and the immersion factor will be unefficient.
 
@@ -152,3 +152,10 @@ We need to create a series of events that will occur during our story, we will c
 Then we create a graph that expresses and shows all the tension through the storyline. We then position our events in the time that they will take part in.
 
 ![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/pace2.jpg)
+
+Now that we have the pacing graph created for our story, the next step is to give every type of sequence a different type of color assigning every type a different mechanic like combat, cutscene or travel sequences.A variety of actions is created and it helps us categorize and analyse every situation on the narrative arc, they won't perceive the events as separated ones if the travel action or any other action is repeating constantly.
+
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/pace3.jpg)
+
+[Here we can find a lot of information about pacing graphs on _The Witcher 3_](https://youtu.be/g5TH9KakBDw)
+The graph provides us with the information about the narrative arc and the main quests that will be happening during the story
