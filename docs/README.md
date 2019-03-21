@@ -2,7 +2,7 @@
 
 # A better look at Quest designing
 
-![Kratos and Loki](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg)
+![](docs\gow.jpg)
 
 
 ## About the author
@@ -35,13 +35,13 @@ Most people tend to think that a Main QUest is simply an action that you must co
 
 According to Dean Razavi, Razbury Games Game Designer. a main quest is a big change in the plot of the narrative arc that create a new path for the player making it a inflexion point, meaning this that anything that is not related to the main plot of the story of the game is directly not considered a main quest.
 
-![Main Quest](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/quest.jpg)
+![](docs\quest.jpg)
  
  ### Side Quests
  
  The Side Quests help you understand and describe better and more deeply, the world that involves the main character as it explains and makes you discover a more in depth view of the main narrative arc of the game, all this while explaining secondary stories and discovering more things about its inhabitants and its lore.
  
-![Side Quest](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/sidequest.jpg)
+![](docs\sidequest.jpg)
 
 
 ## Main Pillars
@@ -103,11 +103,11 @@ If the rewards are not specified you create an agreement with the player, if the
 
 **Create a world that simulates life and tells the story to the player**, in the RPG _Spore_ the player begins with two different options, either eat meat or eat plants, you begin as an ameba that keeps evolving, when the player gets out of the water and grows legs, you have the option of killing an entire clan or becoming its allies, if you choose to kill them some of the clans will beg for their lives at some point or will begin to escape from the player, at this point the player(not all of them), a connection with the other clans and realises that you don't have to kill them in order to obtain the improvemens they give after killing them, you can just simply become friends with them and will obtain the same result. The player now decides not to kill the other clans or to continue the massacre.Stablishing this kind of bonds between our players and the main character is the main objective we should be aiming for, since it results in an extremely pleasent experience for them.
 
-![Spore](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/spore.jpg)
+![](docs\spore.jpg)
 
 
 **Timing**, always be aware of when you are creating a side quest, if you are about to kill Zeus with all the items you've gathered through the story, you've faced and killed all the gods that have stepped in your way up to the final boss, but before the final fight when you are about to get all the anger of him killing your family and manipulating you since the day you were born out of your chest,you don't want some random NPC asking you to collect some medicines for his wife.Always remember the words of the legendary professor Oak
-![professor oak](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/professor.jpg)
+![](docs\professor.jpg)
 
 # Pacing
 
@@ -117,19 +117,19 @@ Since we know what quests are, now we are going to emphasize that they transmit 
 
 The best way to take control over the player's tension, perception and emotions is to understand it.We want the tension to affect the player but also vary throughout the story. Variations are needed in the level of increase in tension, you can not create an evolution of constant growth of tension, for this we find this tension graph that helps us understand when the viewer has time to think, to understand, to breathe and to get excited before a battle. Example of the movie Star Wars:
 
-![Pacing](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/pacing.jpg)
+![](docs\pacing.jpg)
 
 _Source_[image](https://www.gamasutra.com/view/feature/132423/beyond_pacing_games_arent_.php)
 
 
 Humans tend to remember the moments with less tension and those who have it the most, that is why the space is left for the spectator or player to "rest". For example take _Skyrim_ as an example, you begin and the first thing you see is a carriage with people you don't know in a place you also don't know, but everything remains calmed and you feel like a new adventure is about to begin, people remember that skyrim scene because it has no tension on it.
 
-![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/skyrim.jpg)
+![](docs\skyrim.jpg)
 _Skyrim's screenshot_
 
 After clearing some story and some basic mechanics and training the dragon comes in, you don't expect to suddenly fight a dragon, the scenario changes, the camera moves faster, the music is more dramatic and it creates a situation where you have to hurry up and kill the dragon with all your resources, all this while driving the player towards the climax, where they kill the dragon and end with all the tension.
 
-![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/skyrim2.jpg)
+![](docs\skyrim2.jpg)
 _Skyrim's screenshot_
 
 
