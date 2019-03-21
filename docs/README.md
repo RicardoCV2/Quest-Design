@@ -78,6 +78,40 @@ The most efficient one is to be in the middle, so that your quest system is dyna
 Once the decisions have been done and the team knows what way they're heading its time to start the quest concepts. Brainstorming and writting all the ideas down is the best way to do it, then the team will filter them and choose. Try to avoid the first ones as they are the ones that create the most the "cliche" effect. Write, in a couple short sentences, what the concept of the quest would be, followed by what the player should do in order to complete it in a really general way.
 The concept tends to be simple but the main ideas are already clear and express a concise idea,that indicates that the quest has potential
 
+## Repetitive type
+
+When a base for the quests has already been established, you can start to think what kind of quests you will create, and in what kind of situations they will be used. The kill quests will be used to teach the player how to fight and to teach the main mechanics. If they are not used carefully the game can become long and repetitive. The same applies for fetch quests and delivery quests. Always think about the type of content that you would like as a player and what you would like to happen, avoid always repeat the quests a lot.
+
+## Main Quests important features
+
+Always remember when creating and designing the main quests that the story is the main factor. The Main Quests explain and express how the player evolves throughout the story, and how that factor affects the entire course of the narrative arc.
+
+Never use main factors of the plot as enemies to create a Main quest, use the main character or the group to do it. Analyze what kind of situations you will have to create for the hero to go to that place to defeat the monster and get an improvement, from there, try to relate the villain to link the story to the main quests, draw the story to those Points of Interest, in a way that feels natural. This is why the villain is a powerful tool, and its proper use will tend to result in a stronger narrative.
+
+If you want to directly link the quest, without it modifying the development of the story, create different paths to join in the Point of Interest.To make the player percieve their decision as meaningful, you can use further references to their choice of path later in the story, and even modify the ending of your game based on their choices, the player will feel a lot more into the game if he is the one that creates the ending of the story, giving the chance to replay the whole game and take different options and different quests. With that, we can avoid making incredibly complex story developement options, with mutliple and completely different branches, which can take a lot of time and resources we may or may not dispose of.
+
+## Side Quest important features
+
+The most important facotr of the side quests are the rewards they give to the player, a non obligatory quest that provides with items or knowledge that does not affect the main plot of the game, you have to **be clear and concise with the rewards**. The player must always know what they are getting as a reward for that quest as it has an effort-payoff and maybe the reward does not correspond to the level difficulty or the rewards are just not worth the effort.
+If the rewards are not specified you create an agreement with the player, if the rewards are the expected the player will be satisfied a lot, but if the rewards do not match the complexity of the level, not only they won’t have been provided with proper content, but they won’t have recieved an adequate reward to “compensate” for it either and they will feel extremely disappointed and betrayed.
+
+**Side quests creators**, not only NPC will give you the side quests, a note on a tree, a mark on the wall that provides with a message under a rock, be aware to create a side quest that is not given to the player by a NPC, maybe curiosity can bring the player to a hidden mysterious scenario with side quests.
+
+**Players don't only acept quests they're interested in**, we humans tend to give things a higher value when we owe them rather than  when we are obtaining it. After being presented with a mission, our brain will associate it with ownership, and we will be hesitant towards not accepting it, as this happens most of the time, create your side quests with appealing and interesting aspects to engage the player to participate on them.
+
+**Confronting quests with conflicts on it**, try to create side quests that involve the player to think by itself either the solution, the path and the way to preceed on it, you can create a situation where the player has to decide between two different people with different problems and who to help, one will feel betrayed but alwasy add some extra effect on the reward as money or objects to make the player feel more connection with the mission. Maybe two different kids need help from the heroe to gather something or to rescue someone and one quest gives you objects and the other one gives you weapons, the player has to feel involved in the action and has to make a decision on who to betray/help.
+
+**Create a world that simulates life and tells the story to the player**, in _Spore_
+
+
+
+
+
+
+
+
+
+
 
 
 
