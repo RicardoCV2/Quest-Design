@@ -118,6 +118,7 @@ Since we know what quests are, now we are going to emphasize that they transmit 
 The best way to take control over the player's tension, perception and emotions is to understand it.We want the tension to affect the player but also vary throughout the story. Variations are needed in the level of increase in tension, you can not create an evolution of constant growth of tension, for this we find this tension graph that helps us understand when the viewer has time to think, to understand, to breathe and to get excited before a battle. Example of the movie Star Wars:
 
 ![Pacing](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/pacing.jpg)
+
 _Source_[image](https://www.gamasutra.com/view/feature/132423/beyond_pacing_games_arent_.php)
 
 
@@ -128,7 +129,7 @@ _Skyrim's screenshot_
 
 After clearing some story and some basic mechanics and training the dragon comes in, you don't expect to suddenly fight a dragon, the scenario changes, the camera moves faster, the music is more dramatic and it creates a situation where you have to hurry up and kill the dragon with all your resources, all this while driving the player towards the climax, where they kill the dragon and end with all the tension.
 
-![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/skyrim2t.jpg)
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/skyrim2.jpg)
 _Skyrim's screenshot_
 
 
