@@ -174,6 +174,17 @@ Then we can also apply some different options that end up on the same repercusio
 ![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/plot2.jpg?raw=true)
 
 
+#RPG's and MMRPG's
+
+Player base is the most important thing to take into account when it comes to quests creation because the 90% of them are not playing to collect quests and complete them.
+The most important factor when it comes to rpg's and mmrpg's, its the variety factor, they provide the players with a lot of different stuff and different types of quests from gathering to killing. The first time a player enters a MMRPG he is there to learn the main mechanics and to know what the game and the main quests are about, the second time he comes to play he will already know the basics and some stuff may be uninteresting for them anymore. To encourage questing in MMRPG and in RPG we have two clue factors that will help provide with more content:
+
+* **Maximum Quests**. The worst thing a game can do is overcharge the player with lots of main quests and side quests, the way to deal with this is limiting the quests a player can have,(e.g you can have a maximum of 3 Main Quests and 5 Side Quests and you have to complete them first to get new ones). This creates a mindset on the player of taking decisions, which mission do I want now?, does this mission affect more than the other one?, This is important now? This also creates more immersion towards the player as he can choose the mission they like the most. And with this, the second time they play with a different character, they will choose other missions and experience new things with the game.
+
+* **Zoning** _Guild Wars_ is a perfect example of zoning, we are talking about RPG and MMRPG, zoning is a key factor in games like Guild Wars because the world they are in can have a level 10 player and a level 85 in the same map but with diferent enemies, just because a maximum level can defeat the most powerful beasts in the first level doesn't mean the first level needs to be modified, a key factor to enhance the players keep playing is the creation of raids, dungeons and Main events, these are Quests that require the player to keep playing the game until they can beat that level 75 warlord, dungeons help the game evolve constantly as they can be implemented later on and just for a period of time, Guild Wras creates raids and special missions in dungeons for advanced intermediate and beginner players. Changes in the big world they have been playing is a big satisfaction for a player and creates on them a big connection with the game, making them want to keep playing until they can defeat that dungeon and get the awesome rewards they expected to have.
+
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/guild wars.jpg?raw=true)
+
 ## Bibliography
 
 [Quest design in _The Witcher 3_](http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html)
