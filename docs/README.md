@@ -4,7 +4,6 @@ https://ricardocv2.github.io/Quest-Design/
 
 ![Kratos and Loki](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg)
 
-
 ## About the author
 
 My name is [Ricardo Castro](https://github.com/RicardoCV2) and I'm a student on CITM on Terrassa.
