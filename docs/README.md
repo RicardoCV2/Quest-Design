@@ -142,3 +142,13 @@ A very important point is knowing what we are creating, we are not developing so
 * **Hooking them up**, the quest might be that good that the player will want to keep playing it until it is completed, this will make they won't leave until its completed or until they reach a low tension point, this creates a situation where the player will not have lost the pacing of tension and will be at a point where it doesn't repercute on the tension previously created and it will not be ruined for the nexxt time he plays.
 
 The last important factor to take in a look at is the immersion of the player in the story, if the player tries to deduce what is gonna happen next in the story and it ends up not being what he though, the player will be completely engaged to the story as he would want to know what will happen next.This can also be a very bad point of our quest designing if the story is way too obvious and the player can anticipate what is going to happen next, if he can correctly guess what is gonna happen all the time, this means the story is not interesting for them anymore and the immersion factor will be unefficient.
+
+## Pace
+
+We need to create a series of events that will occur during our story, we will create a pacing graph step by step
+
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/pace.jpg)
+
+Then we create a graph that expresses and shows all the tension through the storyline. We then position our events in the time that they will take part in.
+
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/pace2.jpg)
