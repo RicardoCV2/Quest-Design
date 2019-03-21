@@ -158,4 +158,13 @@ Now that we have the pacing graph created for our story, the next step is to giv
 ![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/pace3.jpg)
 
 [Here we can find a lot of information about pacing graphs on _The Witcher 3_](https://youtu.be/g5TH9KakBDw)
+
 The graph provides us with the information about the narrative arc and the main quests that will be happening during the story
+
+
+# Quest e.g
+
+Lets make an examplification of a quest creation:
+The main protagonist of the story is travelling all around the country and he finds out his village was attacked 2 days ago, we start with low tension and when the character arrives to the town the tension will increase.He finds out that his wife and his daughter were hiding under the house where he told them to hide if something happened, the tension lowers when the wife begins explaining what happened. The wife mentions that the attacker was a friend of him from a long time ago who turned evil after a warlock possessed his soul. The possessed friend turns back to the village to end up the heroes life and ends up killing his wife and leaving, the tension increases. The "villain" leaves the village and the daughter and the heroe begin talking about their revenge, the tension decreases.The heroe fins out how to break the possession and save his friend, the tension increases again, the heroe chases him and finds him, an encounter will begin and the tension keeps increasing, he destroys the spell and the tension decreases when they talk about how sorry he is and how the warlock possessed him. The daughter joins them in their journey to kill the warlock and finds out she has a special inner power, the tension increases again, they meet up with the warlock and the daughter unleashes her power,(again increasing tension), she defeats the warlock decreasing all the tension. Finally they come back home to create a new path in their lives together. The tension disappears. The emotions rollercoaster will keep the player playing as a lot of ups and downs exponentially appear in the story, when the friend comes back to normal, when the daughter unleashes the power and when they defeat the warlock, all inflexion points where we have to catch emotionally the player and make him keep playing.
+
+
