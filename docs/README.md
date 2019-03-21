@@ -2,7 +2,7 @@
 
 # A better look at Quest designing
 
-![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg)
+![Kratos and Loki](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg)
 
 
 ## About the author
@@ -35,13 +35,13 @@ Most people tend to think that a Main QUest is simply an action that you must co
 
 According to Dean Razavi, Razbury Games Game Designer. a main quest is a big change in the plot of the narrative arc that create a new path for the player making it a inflexion point, meaning this that anything that is not related to the main plot of the story of the game is directly not considered a main quest.
 
-![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/quest.jpg)
+![Main Quest](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/quest.jpg)
  
  ### Side Quests
  
  The Side Quests help you understand and describe better and more deeply, the world that involves the main character as it explains and makes you discover a more in depth view of the main narrative arc of the game, all this while explaining secondary stories and discovering more things about its inhabitants and its lore.
  
-![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/sidequest.jpg)
+![Side Quest](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/sidequest.jpg)
 
 
 ## Main Pillars
@@ -101,10 +101,13 @@ If the rewards are not specified you create an agreement with the player, if the
 
 **Confronting quests with conflicts on it**, try to create side quests that involve the player to think by itself either the solution, the path and the way to preceed on it, you can create a situation where the player has to decide between two different people with different problems and who to help, one will feel betrayed but alwasy add some extra effect on the reward as money or objects to make the player feel more connection with the mission. Maybe two different kids need help from the heroe to gather something or to rescue someone and one quest gives you objects and the other one gives you weapons, the player has to feel involved in the action and has to make a decision on who to betray/help.
 
-**Create a world that simulates life and tells the story to the player**, in _Spore_
+**Create a world that simulates life and tells the story to the player**, in the RPG _Spore_ the player begins with two different options, either eat meat or eat plants, you begin as an ameba that keeps evolving, when the player gets out of the water and grows legs, you have the option of killing an entire clan or becoming its allies, if you choose to kill them some of the clans will beg for their lives at some point or will begin to escape from the player, at this point the player(not all of them), a connection with the other clans and realises that you don't have to kill them in order to obtain the improvemens they give after killing them, you can just simply become friends with them and will obtain the same result. The player now decides not to kill the other clans or to continue the massacre.Stablishing this kind of bonds between our players and the main character is the main objective we should be aiming for, since it results in an extremely pleasent experience for them.
+
+![Spore](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/spore.jpg)
 
 
-
+**Timing**, always be aware of when you are creating a side quest, if you are about to kill Zeus with all the items you've gathered through the story, you've faced and killed all the gods that have stepped in your way up to the final boss, but before the final fight when you are about to get all the anger of him killing your family and manipulating you since the day you were born out of your chest,you don't want some random NPC asking you to collect some medicines for his wife.Always remember the words of the legendary professor Oak
+![professor oak](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/professor.jpg)
 
 
 
