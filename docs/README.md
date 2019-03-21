@@ -1,5 +1,6 @@
 # A better look at Quest designing
-![Image of Kratos](https://imgur.com/AwNJpIK)
+
+![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/gow.jpg)
 
 ## Author
 
