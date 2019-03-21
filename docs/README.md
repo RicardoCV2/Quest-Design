@@ -173,7 +173,6 @@ Then we can also apply some different options that end up on the same repercusio
 
 ![](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/plot2.jpg?raw=true)
 
-
 #RPG's and MMRPG's
 
 Player base is the most important thing to take into account when it comes to quests creation because the 90% of them are not playing to collect quests and complete them.
