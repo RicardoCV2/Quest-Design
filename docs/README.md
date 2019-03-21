@@ -109,6 +109,8 @@ If the rewards are not specified you create an agreement with the player, if the
 **Timing**, always be aware of when you are creating a side quest, if you are about to kill Zeus with all the items you've gathered through the story, you've faced and killed all the gods that have stepped in your way up to the final boss, but before the final fight when you are about to get all the anger of him killing your family and manipulating you since the day you were born out of your chest,you don't want some random NPC asking you to collect some medicines for his wife.Always remember the words of the legendary professor Oak
 ![professor oak](https://github.com/RicardoCV2/Quest-Design/blob/master/docs/professor.jpg)
 
+# Pacing
+
 
 
 
